@@ -11,7 +11,7 @@ tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 # Problem statement ---
 # Reference picture  - <../one_uni_hidden_layer.png>
 # Let us say that we have been given one data-point and three features
-# How to build manually without tf.keras utility this single unit layer ?
+# HOW to build manually without tf.keras utility this single unit layer ?
 
 
 features = tf.constant([[2.0, 0.3, 0.45]], dtype=float)
