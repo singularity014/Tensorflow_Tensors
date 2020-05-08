@@ -8,7 +8,7 @@ Author: Prafull SHARMA
 import tensorflow as tf
 import numpy as np
 
-# -------------------- 1.) FEATURE MATRIX SHAPE ------------------- #
+# -------------------- 1.) FEATURE MATRIX SHAPE --------------------- #
 borrower_features = np.array([#F1, F2, F3
                               [3.0, 3.0, 23.0],
                               [2.0, 1.0, 24.0],
