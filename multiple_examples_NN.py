@@ -51,3 +51,4 @@ print('\n shape of dense1: ', dense1.shape)
 # Each single unit will be be 5 x 1 array
 # so shape of dense layer will be 5 x 2
 
+# Sampe principle can be applied for 100s of examples, or a single example application
