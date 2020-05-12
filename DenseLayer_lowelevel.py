@@ -9,7 +9,7 @@ tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
 
 # Problem statement ---
-# Reference picture  - <../one_uni_hidden_layer.png>
+# Reference picture  - <<<../one_uni_hidden_layer.png>>>
 # Let us say that we have been given one data-point and three features
 # HOW to build manually without tf.keras utility this single unit layer ?
 
