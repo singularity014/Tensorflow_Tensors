@@ -4,6 +4,7 @@ import tensorflow as tf
 import os
 import logging
 
+# setting logging error configs
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
