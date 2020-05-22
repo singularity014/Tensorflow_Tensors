@@ -6,7 +6,8 @@ import numpy as np
 
 #tf.enable_eager_execution() #Eager execution enables a more interactive front end
 
-# Some constants
+# Some constants and 
+# casting in TF compatible formats
 node1 = tf.constant(1.0, dtype=tf.float32)
 node2 = tf.constant(2.0) # also tf.float32 implicitly
 print(node1, node2)
