@@ -11,6 +11,7 @@ import numpy as np
 node1 = tf.constant(1.0, dtype=tf.float32)
 node2 = tf.constant(2.0) # also tf.float32 implicitly
 print(node1, node2)
+# checking node type
 
 #The following code creates a Session object and then invokes its run method to run enough of
 #the computational graph to evaluate node1 and node2. By running the computational graph in
