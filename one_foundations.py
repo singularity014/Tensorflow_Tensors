@@ -20,6 +20,7 @@ sess = tf.Session()
 print(sess.run([node1, node2]))
 sess.run(node1)
 
+
 #Some computations by combining Tensor nodes
 node3 = tf.add(node1, node2)
 print("node3: ", node3)
