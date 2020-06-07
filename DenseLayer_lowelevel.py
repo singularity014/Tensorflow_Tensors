@@ -9,7 +9,6 @@ import logging
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 
-
 # Problem statement ---
 # Reference picture  - <<<../one_uni_hidden_layer.png>>>
 # Let us say that we have been given one data-point and three features
