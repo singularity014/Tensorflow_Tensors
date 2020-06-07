@@ -3,7 +3,7 @@ Author: Prafull SHARMA
 '''
 # Low Level approach with multiple examples
 # In this code, we'll create Neural Net Reference : 'two_unit_hidden_layer_NN.png'
-# Neural Network, we low level coding in TF2.0
+# Neural Network, we low level coding in TF2.0 ..
 
 import tensorflow as tf
 import numpy as np
